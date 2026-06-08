@@ -1,0 +1,77 @@
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+MASTER_PROMPT.md
+prompts/
+
+# Environment files
+.env
+.env.*
+!.env.example
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Dependency directories
+node_modules/
+frontend/node_modules/
+backend/venv/
+backend/.venv/
+.venv/
+venv/
+
+# Build outputs
+.next/
+frontend/.next/
+out/
+frontend/out/
+dist/
+build/
+
+# Lock files
+package-lock.json
+frontend/package-lock.json
+yarn.lock
+frontend/yarn.lock
+pnpm-lock.yaml
+frontend/pnpm-lock.yaml
+bun.lockb
+frontend/bun.lockb
+Pipfile.lock
+poetry.lock
+uv.lock
+
+# Python caches and test artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.ruff_cache/
+
+# TypeScript and framework caches
+*.tsbuildinfo
+frontend/*.tsbuildinfo
+.eslintcache
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

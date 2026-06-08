@@ -31,19 +31,6 @@ frontend/out/
 dist/
 build/
 
-# Lock files
-package-lock.json
-frontend/package-lock.json
-yarn.lock
-frontend/yarn.lock
-pnpm-lock.yaml
-frontend/pnpm-lock.yaml
-bun.lockb
-frontend/bun.lockb
-Pipfile.lock
-poetry.lock
-uv.lock
-
 # Python caches and test artifacts
 __pycache__/
 *.py[cod]

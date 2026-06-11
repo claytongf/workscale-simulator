@@ -203,6 +203,7 @@ This project follows strict ethical principles:
 2. **Implement** your changes with appropriate tests.
 
 3. **Run all checks** before opening the PR:
+
    ```bash
    # Backend
    cd backend && pytest && ruff check . && mypy .

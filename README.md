@@ -5,6 +5,7 @@
 [![Backend CI](https://github.com/claytongf/workscale-simulator/actions/workflows/backend.yml/badge.svg)](https://github.com/claytongf/workscale-simulator/actions/workflows/backend.yml)
 [![Frontend CI](https://github.com/claytongf/workscale-simulator/actions/workflows/frontend.yml/badge.svg)](https://github.com/claytongf/workscale-simulator/actions/workflows/frontend.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/botaficha)
 
 ---
 
@@ -377,6 +378,14 @@ We welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 - Running backend and frontend checks
 - Coding and documentation standards
 - Ethical guidelines
+
+---
+
+## Support
+
+If you find this project helpful, please consider supporting its development:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/botaficha)
 
 ---
 
